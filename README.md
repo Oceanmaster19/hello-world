@@ -2,4 +2,4 @@
 App
 
 
-Ikr this is so cool
+Ikr this is very cool
